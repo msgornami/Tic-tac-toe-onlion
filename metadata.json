@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Tic Tac Toe Online",
+  "description": "An esports-styled strategy game featuring an infinite dynamically expanding board, 5-in-a-row winning criteria, online Elo matches, rank tier metrics, and adaptive AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
